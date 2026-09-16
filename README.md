@@ -97,13 +97,10 @@ Financial Summary
 
 The financial analysis shows the total income, total expenses, and current organizational balance.
 
-"Financial Summary" (screenshots/financial-summary.png)
-
 Expense Analysis
 
 The expense analysis shows the spending distribution across different expense categories.
 
-"Expense Analysis" (screenshots/expense-analysis.png)
 
 ## How to Run
 
