@@ -91,7 +91,7 @@ student-organization-finance-database/
 |
 └── README.md
 
-Analysis Results
+## Analysis Results
 
 Financial Summary
 
@@ -105,7 +105,7 @@ The expense analysis shows the spending distribution across different expense ca
 
 "Expense Analysis" (screenshots/expense-analysis.png)
 
-How to Run
+## How to Run
 
 1. Install XAMPP.
 2. Start MySQL from the XAMPP Control Panel.
