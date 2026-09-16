@@ -90,7 +90,7 @@ student-organization-finance-database/
 |   └── expense analysis.png
 |
 └── README.md
-
+```
 ## Analysis Results
 
 Financial Summary
