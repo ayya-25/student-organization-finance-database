@@ -85,4 +85,19 @@ student-organization-finance-database/
 ├── analysis/
 │   └── financial_analysis.sql
 │
+├── screenshots/
+|   └── financial-summary.png
+|   └── expense analysis.png
+|
 └── README.md
+
+
+## Analysis Results
+
+### Financial Summary
+
+![Financial Summary](screenshots/financial-summary.png)
+
+### Expense Analysis
+
+![Expense Analysis](screenshots/expense analysis.png)
