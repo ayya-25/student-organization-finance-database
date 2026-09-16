@@ -90,3 +90,26 @@ student-organization-finance-database/
 |   └── expense analysis.png
 |
 └── README.md
+
+Analysis Results
+
+Financial Summary
+
+The financial analysis shows the total income, total expenses, and current organizational balance.
+
+"Financial Summary" (screenshots/financial-summary.png)
+
+Expense Analysis
+
+The expense analysis shows the spending distribution across different expense categories.
+
+"Expense Analysis" (screenshots/expense-analysis.png)
+
+How to Run
+
+1. Install XAMPP.
+2. Start MySQL from the XAMPP Control Panel.
+3. Open phpMyAdmin.
+4. Import or run "database/organization_finance.sql".
+5. Open "analysis/financial_analysis.sql".
+6. Run the SQL queries to analyze the financial data.
